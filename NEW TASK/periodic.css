@@ -1,0 +1,52 @@
+body
+{
+    background-color: blue;
+}
+.head
+ {
+    background-color: palevioletred;
+}
+.b
+{
+background-color: lightskyblue;
+}
+.C
+{
+   background-color:khaki
+}
+.D
+{
+    background-color: darkseagreen;
+}
+#F
+{
+ background-color: yellow;
+}
+.E
+{
+    background-color: orange;
+}
+.G
+{
+    background-color:salmon;
+}
+.H
+{
+    background-color:lemonchiffon ;
+}
+.I
+{
+    background-color:lightslategrey ;
+}
+.J
+{
+     background-color: whitesmoke;
+}
+.K
+{
+    background-color: thistle;
+}
+marquee
+{
+    color: rgb(27, 255, 160);
+}
